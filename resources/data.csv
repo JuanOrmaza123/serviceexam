@@ -1,0 +1,6 @@
+Orden;Articulo;TipoArticulo;Precio;Cliente
+1;1;Servicio;15487.00;ALISSON
+1;2;Articulo;1247.00;ALISSON
+2;3;Servicio;789754.00;ALISSON
+3;4;Articulo;45874.00;TIRSO
+Suma;852362

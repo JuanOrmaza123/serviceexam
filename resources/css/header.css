@@ -1,0 +1,35 @@
+#header {
+    border-bottom: 1px solid #5FB0E4;
+    padding: 15px 0;
+    color: #787878;
+}
+
+.logout {
+    color: #787878;
+}
+
+.logout:active,
+.logout:visited,
+.logout:focus,
+.logout:hover {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+
+.resetRow {
+    margin: 0;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.containerTable {
+    max-height: 300px;
+    overflow: auto;
+}
+
+.icon-margin {
+    margin-right: 5px;
+}
